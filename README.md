@@ -3,7 +3,6 @@
 |:--------|:------------|
 | Ubuntu | just send help in your group and get the commands |
 ## کد نصب رو ربات 
-**Ubuntu:**
 ```
 sudo apt-get update
 sudo apt-get install redis-server
@@ -13,10 +12,10 @@ sudo pip install pyTelegramBotApi
 sudo pip install redis
 sudo pip install temp-mail
 ```
-* Then we clone Repo and run bot.py
+* اول سورس رو کلون کنید
 ```
-git clone https://github.com/mohsenDeluxe/Email-Bot.git
-cd Email-Bot
+git clone https://github.com/mohsenDeluxe/FakeMail.git
+cd FakeMail
 ```
 *فایل bot.py در خط 5 توکن ربات خودتون رو قرار بدید*
 *بعد کد پاین رو بزنید تا ربات لانچ بشه*
