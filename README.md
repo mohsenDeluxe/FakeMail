@@ -17,7 +17,7 @@ sudo pip install temp-mail
 git clone https://github.com/mohsenDeluxe/FakeMail.git
 cd FakeMail
 ```
-*تو فایل [bot.py]  خط 5 توکن ربات رو قرار بدید.
+*تو فایل [bot.py]  خط 5 توکن ربات رو قرار بدید*
 
 *بعد کد پاین رو بزنید تا ربات لانچ بشه*
 
