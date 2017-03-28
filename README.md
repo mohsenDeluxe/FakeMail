@@ -26,4 +26,4 @@ python2 bot.py
 
 ### Our Telegram channel:
 
-*[@DeluxeTm](https://telegram.me/DeluxeTm)*
+*[@PersianTdTch](https://telegram.me/PersianTdTch)*
