@@ -1,7 +1,6 @@
 # [FakeMail](https://telegram.me/TdTFakeMail_bot)
 | server |
-|:--------|:------------|
-| Ubuntu | just send help in your group and get the commands |
+| Ubuntu |
 ## کد نصب رو ربات 
 ```
 sudo apt-get update
