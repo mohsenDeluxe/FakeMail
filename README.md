@@ -24,6 +24,4 @@ cd FakeMail
 python2 bot.py
 ```
 
-### Our Telegram channel:
 
-*[@PersianTdTch](https://telegram.me/PersianTdTch)*
